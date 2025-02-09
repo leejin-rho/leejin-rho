@@ -51,7 +51,3 @@
 - **제 1회 NE(O)RDINARY DEMODAY** 대상
 - **4th UMC DEMODAY** 대상
 
-
-### Certification
-- 2024.09 **정보처리기사**
-- 2024.06 **SQLD**
