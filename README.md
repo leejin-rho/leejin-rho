@@ -32,14 +32,14 @@
 
 
 ### Activities
-- **UMC: IT Foundation Society 4th** (Mar.2023 - Jul.2023)
-- **CEOS: Sinchon IT Foundation Society 18th** (Web Frontend |  Sep.2023 - Feb.2024  | Seoul, Korea)
-- **CEOS: Sinchon IT Foundation Society 19th** (Web Frontend Managing & Mentor | Feb.2024 - Now | Seoul, Korea)
+- **IT Foundation Society UMC 4th -** Mar.2023 - Jul.2023
+- **Sinchon IT Foundation Society CEOS 18th -** Web Frontend |  Sep.2023 - Feb.2024  | Seoul, Korea
+- **Sinchon IT Foundation Society CEOS 19th -** Web Frontend Managing & Mentor | Feb.2024 - Now | Seoul, Korea
 
 
 ### Education
-- **Hongik University | 홍익대학교** (Bachelor’s Degree in Computer Science Engineering | Mar.2018 - Aug.2024 | Seoul, Korea)
-- **LG U+ URECA SW Academy 1기** (Web Frontend Developer | Jun.2024 - Dec.2024 | Seoul, Korea)
+- **Hongik University | 홍익대학교 -** Bachelor’s Degree in Computer Science Engineering | Mar.2018 - Aug.2024 | Seoul, Korea
+- **LG U+ URECA SW Academy 1기 -** Web Frontend Developer | Jun.2024 - Dec.2024 | Seoul, Korea
 
 
 ### Achievements  
