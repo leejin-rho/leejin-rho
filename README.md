@@ -21,7 +21,7 @@
 
 
 ### Projects
-- [Swaggy-Swagger](https://github.com/Swaggy-Swagger/swaggy-ui) - API 문서화 라이브러리 Swagger의 UI/UX를 개선한 오픈소스 라이브러리(**React**) | **Frontend**
+- [Swaggy-Swagger](https://github.com/Swaggy-Swagger/swaggy-ui) - API 문서화 라이브러리 Swagger의 UI/UX를 개선한 **오픈소스 라이브러리**(**React**) | **Frontend**
 - [Breifing](https://github.com/Briefing-for-construction-workers/frontend) - 건물 유지보수 특화 사무보조 서비스(**React-Native**, RN CLI) | **Frontend Lead**
 - [두리묭실(Doori-Salon)](https://github.com/Duri-Salon/Duri-FE) - 주변 가게 가격입찰과 미용일기를 통한, 새로운 반려견 미용 중계 서비스(**React**) | **Frontend Lead**
 - [Reddi](https://github.com/team-Reddi/reddi-client) - 마케터를 위한 최신 브랜딩 아카이빙 서비스(**React**) | **Frontend**
