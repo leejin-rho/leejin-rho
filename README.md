@@ -39,7 +39,7 @@
 
 ### Education
 - **Hongik University | 홍익대학교 -** Bachelor’s Degree in **Computer Science Engineering** | Mar.2018 - Aug.2024 | Seoul, Korea
-- **LG U+ URECA SW Academy 1기 -** Web Frontend Developer | Jun.2024 - Dec.2024 | Seoul, Korea
+- **LG U+ URECA SW Academy 1기 -** **Web Frontend Developer** | Jun.2024 - Dec.2024 | Seoul, Korea
 
 
 ### Achievements  
@@ -53,5 +53,5 @@
 
 
 ### Certification
-- 2024.09 정보처리기사
-- 2024.06 SQLD
+- 2024.09 **정보처리기사**
+- 2024.06 **SQLD**
