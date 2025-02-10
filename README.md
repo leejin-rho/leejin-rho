@@ -42,12 +42,3 @@
 - **LG U+ URECA SW Academy 1기 -** **Web Frontend Developer** | Jun.2024 - Dec.2024 | Seoul, Korea
 
 
-### Achievements  
-- **2024 공개SW 개발자대회** 후원기업상(동상)
-- **제12회 K-해커톤대회** 한국콘텐츠학회장상(3위)
-- **LG U+ 유레카 종합프로젝트 경진대회** 최우수상(1위)
-- **제21회 홍익대학교 창업 경진대회** 최우수상
-- **세종 UNION 창업 경진대회** 우수상
-- **제 1회 NE(O)RDINARY DEMODAY** 대상
-- **4th UMC DEMODAY** 대상
-
