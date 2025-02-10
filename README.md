@@ -4,7 +4,7 @@
 - **UI/UX Enhancement** – Designing intuitive, user-friendly experiences  
 - **Scalable Design Systems** – Structuring modular, reusable UI components  
 - **Performance Optimization** – Ensuring fast, accessible, and efficient web apps  
-- **Front-End Architecture** – Building maintainable and scalable codebases  
+- **Frontend Architecture** – Building maintainable and scalable codebases  
 
 ### Tech Stack 
 
