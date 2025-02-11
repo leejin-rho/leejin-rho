@@ -1,5 +1,5 @@
 ### Frontend Developer 
-- **Passionate about UI/UX & Scalable Design Systems**
+- **Passionate about UI/UX & Scalable Design Systems & Performance Optimization**
 
 ### Tech Stack 
 
