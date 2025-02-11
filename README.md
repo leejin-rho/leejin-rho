@@ -28,10 +28,10 @@
 ### Education
 - **Hongik University | 홍익대학교**
  
-  > Bachelor’s Degree in **Computer Science Engineering** | Mar.2018 - Aug.2024 | Seoul, Korea
+  > Bachelor’s Degree in Computer Science Engineering | Mar.2018 - Aug.2024 | Seoul, Korea
 - **LG U+ URECA SW Academy 1기**
  
-  > **Web Frontend Developer** | Jun.2024 - Dec.2024 | Seoul, Korea
+  > Web Frontend Developer | Jun.2024 - Dec.2024 | Seoul, Korea
 
 ### Projects
 - [Swaggy-Swagger](https://github.com/Swaggy-Swagger/swaggy-ui) - API 문서화 라이브러리 Swagger의 UI/UX를 개선한 **오픈소스 라이브러리**(**React**) | **Frontend**
