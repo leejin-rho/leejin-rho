@@ -23,7 +23,7 @@
   > Web Frontend |  Sep.2023 - Feb.2024  | Seoul, Korea
 - **Sinchon IT Foundation Society CEOS 19th**
 
-  >Web Frontend Managing & Mentor | Feb.2024 - Now | Seoul, Korea
+  >Web Frontend Team Manager & Mentor | Feb.2024 - Present | Seoul, Korea
 
 ### Education
 - **Hongik University | 홍익대학교**
