@@ -44,3 +44,9 @@
 - [MANITO](https://github.com/leejin-rho/MANITO) - LG U+ 유레카 SW 마니또 이벤트를 위한 마니또 커뮤니티 서비스(**Spring, Thymeleaf**) | **Full Stack**
 - [your-writing](https://github.com/yourwriting/yourwriting-front) - 사용자 손글씨 기반 폰트 생성 노트 앱(**Flutter, Python**) | **Frontend, Generate Font**
 
+
+### Achievements  
+- **2024 공개SW 개발자대회** 후원기업상(동상)
+- **제12회 K-해커톤대회** 한국콘텐츠학회장상(3위)
+- **제21회 홍익대학교 창업 경진대회** 최우수상
+- **세종 UNION 창업 경진대회** 우수상
