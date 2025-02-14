@@ -38,7 +38,7 @@
 - [Breifing](https://github.com/Briefing-for-construction-workers/frontend) - 건물 유지보수 특화 사무보조 서비스(**React-Native**, RN CLI) | **Frontend Lead**
 - [두리묭실(Doori-Salon)](https://github.com/Duri-Salon/Duri-FE) - 주변 가게 가격입찰과 미용일기를 통한, 새로운 반려견 미용 중계 서비스(**React**) | **Frontend Lead**
 - [Reddi](https://github.com/team-Reddi/reddi-client) - 마케터를 위한 최신 브랜딩 아카이빙 서비스(**React**) | **Frontend**
-- [Fitnee](https://github.com/FITNEE/FITNEE_Client) - AI 기반 사용자 맞춤형 운동 루틴 제공 피트니스 앱(**React-Native**, Expo CLI) | **Frontend**
+- [fitnee](https://github.com/FITNEE/FITNEE_Client) - AI 기반 사용자 맞춤형 운동 루틴 제공 피트니스 앱(**React-Native**, Expo CLI) | **Frontend**
 - [포슬(PawSeul)](https://github.com/PawSeul/PawSeul) - 반려견 건강 기반 AI 제품추천 이커머스 서비스(**React**) | **Frontend Lead**
 - [WeCare](https://github.com/team-Ollie/WeCare-FE) - 노숙인 공공프로그램 참여 독려 서비스(**Next.js**) | **Frontend**
 - [MANITO](https://github.com/leejin-rho/MANITO) - LG U+ 유레카 SW 마니또 이벤트를 위한 마니또 커뮤니티 서비스(**Spring, Thymeleaf**) | **Full Stack**
