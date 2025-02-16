@@ -11,7 +11,7 @@
 ### Activities
 - **IT Foundation Society UMC 4th**
 
-  > Mar.2023 - Jul.2023
+  > Web Frontend | Mar.2023 - Jul.2023
 - **Sinchon IT Foundation Society CEOS 18th**
 
   > Web Frontend |  Sep.2023 - Feb.2024  | Seoul, Korea
