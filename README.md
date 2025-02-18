@@ -9,7 +9,7 @@
 ![React-Native](https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=react&logoColor=black)
 
 ### Activities
-- **University IT Society UMC 4th**
+- **Inter-University IT Society UMC 4th**
 
   > Web Frontend | Mar.2023 - Jul.2023
 - **Sinchon IT Foundation Society CEOS 18th**
