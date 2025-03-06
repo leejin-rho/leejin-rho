@@ -22,7 +22,7 @@
 ### Education
 - **Hongik University | 홍익대학교**
  
-  > Bachelor’s Degree in Computer Science Engineering | Mar.2018 - Aug.2024 | Seoul, Korea
+  > 컴퓨터공학과 | Mar.2018 - Aug.2024 | Seoul, Korea
 - **LG U+ URECA SW Academy 1기**
  
   > Web Frontend Developer | Jun.2024 - Dec.2024 | Seoul, Korea
