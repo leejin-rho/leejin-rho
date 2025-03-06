@@ -9,13 +9,13 @@
 ![React-Native](https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=react&logoColor=black)
 
 ### Activities
-- **Inter-University IT Society UMC 4th**
+- **전국 연합 IT동아리 UMC 4th**
 
   > Web Frontend | Mar.2023 - Jul.2023
-- **Sinchon IT Foundation Society CEOS 18th**
+- **신촌 연합 IT창업동아리 CEOS 18th**
 
   > Web Frontend |  Sep.2023 - Feb.2024  | Seoul, Korea
-- **Sinchon IT Foundation Society CEOS 19th**
+- **신촌 연합 IT창업동아리 CEOS 19th**
 
   >Web Frontend Team Manager & Mentor | Feb.2024 - now | Seoul, Korea
 
@@ -28,15 +28,15 @@
   > Web Frontend Developer | Jun.2024 - Dec.2024 | Seoul, Korea
 
 ### Projects
-- [두리묭실(Doori-Salon)](https://github.com/Duri-Salon/Duri-FE) - 주변 가게 가격입찰과 미용일기를 통한, 새로운 반려견 미용 중계 서비스(**React**) | **Frontend Lead**
-- [Swaggy-Swagger](https://github.com/Swaggy-Swagger/swaggy-ui) - API 문서화 라이브러리 Swagger의 UI/UX를 개선한 **오픈소스 라이브러리**(**React**) | **Frontend**
-- [Breifing](https://github.com/Briefing-for-construction-workers/frontend) - 건물 유지보수 특화 사무보조 서비스(**React-Native**, RN CLI) | **Frontend Lead**
-- [Reddi](https://github.com/team-Reddi/reddi-client) - 마케터를 위한 최신 브랜딩 아카이빙 서비스(**React**) | **Frontend**
-- [fitnee](https://github.com/FITNEE/FITNEE_Client) - AI 기반 사용자 맞춤형 운동 루틴 제공 피트니스 앱(**React-Native**, Expo CLI) | **Frontend**
-- [포슬(PawSeul)](https://github.com/PawSeul/PawSeul) - 반려견 건강 기반 AI 제품추천 이커머스 서비스(**React**) | **Frontend Lead**
-- [WeCare](https://github.com/team-Ollie/WeCare-FE) - 노숙인 공공프로그램 참여 독려 서비스(**Next.js**) | **Frontend**
-- [MANITO](https://github.com/leejin-rho/MANITO) - LG U+ 유레카 SW 마니또 이벤트를 위한 마니또 커뮤니티 서비스(**Spring, Thymeleaf**) | **Full Stack**
-- [yourwriting](https://github.com/yourwriting/yourwriting-front) - 사용자 손글씨 기반 폰트 생성 노트 앱(**Flutter, Python**) | **Frontend, Generate Font**
+- [두리묭실(Doori-Salon)](https://github.com/Duri-Salon/Duri-FE) - 주변 가게 가격입찰과 미용일기를 통한, 새로운 반려견 미용 중계 서비스(React) | **Frontend Lead**
+- [Swaggy-Swagger](https://github.com/Swaggy-Swagger/swaggy-ui) - API 문서화 라이브러리 Swagger의 UI/UX를 개선한 오픈소스 라이브러리(React) | **Frontend**
+- [Breifing](https://github.com/Briefing-for-construction-workers/frontend) - 건물 유지보수 특화 사무보조 서비스(React-Native, RN CLI) | **Frontend Lead**
+- [Reddi](https://github.com/team-Reddi/reddi-client) - 마케터를 위한 최신 브랜딩 아카이빙 서비스(React) | **Frontend**
+- [fitnee](https://github.com/FITNEE/FITNEE_Client) - AI 기반 사용자 맞춤형 운동 루틴 제공 피트니스 앱(React-Native, Expo CLI) | **Frontend**
+- [포슬(PawSeul)](https://github.com/PawSeul/PawSeul) - 반려견 건강 기반 AI 제품추천 이커머스 서비스(React) | **Frontend Lead**
+- [WeCare](https://github.com/team-Ollie/WeCare-FE) - 노숙인 공공프로그램 참여 독려 서비스(Next.js) | **Frontend**
+- [MANITO](https://github.com/leejin-rho/MANITO) - LG U+ 유레카 SW 마니또 이벤트를 위한 마니또 커뮤니티 서비스(Spring, Thymeleaf) | **Full Stack**
+- [yourwriting](https://github.com/yourwriting/yourwriting-front) - 사용자 손글씨 기반 폰트 생성 노트 앱(Flutter, Python) | **Frontend, Generate Font**
 
 
 ### Achievements  
