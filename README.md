@@ -9,15 +9,15 @@
 ![React-Native](https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=react&logoColor=black)
 
 ### Activities
-- **전국 연합 IT동아리 UMC 4th**
-
-  > Web Frontend | Mar.2023 - Jul.2023
-- **신촌 연합 IT창업동아리 CEOS 18th**
-
-  > Web Frontend |  Sep.2023 - Feb.2024  | Seoul, Korea
 - **신촌 연합 IT창업동아리 CEOS 19th**
 
   >Web Frontend Team Manager & Mentor | Feb.2024 - now | Seoul, Korea
+- **신촌 연합 IT창업동아리 CEOS 18th**
+
+  > Web Frontend |  Sep.2023 - Feb.2024  | Seoul, Korea
+- **전국 연합 IT동아리 UMC 4th**
+
+  > Web Frontend | Mar.2023 - Jul.2023
 
 ### Education
 - **Hongik University | 홍익대학교**
