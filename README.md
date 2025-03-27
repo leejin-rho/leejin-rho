@@ -8,16 +8,13 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![React-Native](https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=react&logoColor=black)
 
-### Activities
-- **신촌 연합 IT창업동아리 CEOS 19th**
+### Experiences
+- **토스 증권**
 
-  >Web Frontend Team Manager & Mentor | Feb.2024 - now | Seoul, Korea
-- **신촌 연합 IT창업동아리 CEOS 18th**
+  >Frontend Assistant | Mar.2025 - now | Seoul, Korea
+- **신촌 연합 IT창업동아리 CEOS 18,19th**
 
-  > Web Frontend |  Sep.2023 - Feb.2024  | Seoul, Korea
-- **전국 연합 IT동아리 UMC 4th**
-
-  > Web Frontend | Mar.2023 - Jul.2023
+  >Web Frontend, Team Manager & Mentor | Sep.2023 - noew | Seoul, Korea
 
 ### Education
 - **LG U+ URECA SW Academy 1기**
