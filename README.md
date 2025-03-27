@@ -9,9 +9,9 @@
 ![React-Native](https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=react&logoColor=black)
 
 ### Experiences
-- **토스 증권**
+- **토스 증권 Toss Securities**
 
-  >Frontend Assistant | Mar.2025 - now | Seoul, Korea
+  >Web Frontend Developer Assistant | Mar.2025 - now | Seoul, Korea
 - **신촌 연합 IT창업동아리 CEOS 18,19th**
 
   >Web Frontend, Team Manager & Mentor | Sep.2023 - noew | Seoul, Korea
