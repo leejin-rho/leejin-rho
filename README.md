@@ -14,7 +14,7 @@
   >Web Frontend Developer Assistant | Mar.2025 - now | Seoul, Korea
 - **신촌 연합 IT창업동아리 CEOS 18,19th**
 
-  >Web Frontend, Team Manager & Mentor | Sep.2023 - noew | Seoul, Korea
+  >Web Frontend, Team Manager & Mentor | Sep.2023 - now | Seoul, Korea
 
 ### Education
 - **LG U+ URECA SW Academy 1기**
