@@ -11,10 +11,10 @@
 ### Experiences
 - **토스 증권 Toss Securities**
 
-  >Web Frontend Developer Assistant | Mar.2025 - now | Seoul, Korea
+  >Web Frontend Developer Assistant | Mar.2025 - now | Seoul, Korea | [토스증권](https://tossinvest.com/)
 - **신촌 연합 IT창업동아리 CEOS 18th,19th**
 
-  >Web Frontend, Team Manager & Mentor | Sep.2023 - now | Seoul, Korea
+  >Web Frontend, Team Manager & Mentor | Sep.2023 - now | | Seoul, Korea | [CEOS](https://ceos-sinchon.com/)
 
 ### Education
 - **LG U+ URECA SW Academy 1기**
