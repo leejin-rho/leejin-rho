@@ -17,7 +17,7 @@
   >Web Frontend Developer Assistant | Mar.2025 - Jun.2025 | Seoul, Korea | [토스증권](https://tossinvest.com/)
 - **신촌 연합 IT창업동아리 CEOS 18th,19th**
 
-  >Web Frontend, Team Manager & Mentor | Sep.2023 - now | Seoul, Korea | [CEOS](https://ceos-sinchon.com/)
+  >Web Frontend, Team Manager & Mentor | Sep.2023 - Aug.2024 | Seoul, Korea | [CEOS](https://ceos-sinchon.com/)
 
 ### Education
 - **LG U+ URECA SW Academy 1기**
