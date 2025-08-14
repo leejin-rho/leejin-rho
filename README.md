@@ -11,10 +11,10 @@
 ### Experiences
 - **LG 유플러스 LG U+**
 
-  >Frontend Developer | Jul.2025 - now | Seoul, Korea | [LG유플러스](https://www.lguplus.com/)
+  >Frontend Developer | Jul.2025 - now | Seoul, Korea | [LG유플러스](https://www.lguplus.com/) 디지털FE팀
 - **토스증권 Toss Securities**
 
-  >Web Frontend Developer Assistant | Mar.2025 - Jun.2025 | Seoul, Korea | [토스증권](https://tossinvest.com/)
+  >Web Frontend Developer Assistant | Mar.2025 - Jun.2025 | Seoul, Korea | [토스증권](https://tossinvest.com/) MLOps팀
 - **신촌 연합 IT창업동아리 CEOS 18th,19th**
 
   >Web Frontend, Team Manager & Mentor | Sep.2023 - Aug.2024 | Seoul, Korea | [CEOS](https://ceos-sinchon.com/)
