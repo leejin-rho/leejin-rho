@@ -19,13 +19,6 @@
 
   >Web Frontend, Team Manager & Mentor | Sep.2023 - Aug.2024 | Seoul, Korea | [CEOS](https://ceos-sinchon.com/)
 
-### Education
-- **LG U+ URECA SW Academy 1기**
- 
-  > Web Frontend Developer | Jun.2024 - Dec.2024 | Seoul, Korea
-- **Hongik University | 홍익대학교**
- 
-  > 컴퓨터공학과 | Mar.2018 - Aug.2024 | Seoul, Korea
 
 ### Projects
 - [두리묭실(Doori-Salon)](https://github.com/Duri-Salon/Duri-FE) - 주변 가게 가격입찰과 미용일기를 통한, 새로운 반려견 미용 중계 서비스(React) | Frontend Lead
